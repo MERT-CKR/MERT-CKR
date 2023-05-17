@@ -1,5 +1,5 @@
-- 📚 Student at Taşköprü Myo
 - 👋 Hi, I’m @MERT-CKR
+- 📚 Student at Taşköprü Myo
 - 👀 I’m interested in A.i.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me 56768mert@gmail.com

@@ -1,3 +1,4 @@
+- 📚 Student at Taşköprü Myo
 - 👋 Hi, I’m @MERT-CKR
 - 👀 I’m interested in A.i.
 - 🌱 I’m currently learning Python

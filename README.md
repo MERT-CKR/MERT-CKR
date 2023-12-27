@@ -5,7 +5,8 @@
 - 📫 How to reach me 56768mert@gmail.com
 
 <div>
-<img src="C:\Users\Luvica\Desktop.gif" alt="gif" height="100" ">
+![brain](https://github.com/MERT-CKR/MERT-CKR/assets/82875825/9e8141af-580f-4aea-96c7-456ba69e80a4)
+
 
 </div>
 

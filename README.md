@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @MERT-CKR
+- 👋 Hi, I’m Mert Çakır
 - 📚 Student at Taşköprü Myo
 - 👀 I’m interested in A.i.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me 56768mert@gmail.com
 
-<!---
-MERT-CKR/MERT-CKR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# A important cat😁 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>

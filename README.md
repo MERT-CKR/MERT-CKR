@@ -5,7 +5,7 @@
 - 📫 How to reach me 56768mert@gmail.com
 
 
-<img src="https://media.tenor.com/LtuWO95bVEMAAAAi/pc-head-bang.gif">
+<img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/brain.gif?raw=true">
 
 
 

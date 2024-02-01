@@ -5,8 +5,9 @@
 - 📫 How to reach me 56768mert@gmail.com
 
 
-<img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/brain.gif?raw=true" style="height: 100px; width: 100px;"><img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/cmpt.gif?raw=true
-" style="height: 100px; width: 100px;"><img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/fire.gif?raw=true" style="height: 100px; width: 100px;">
+<img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/brain.gif?raw=true" style="height: 100px; width: 100px;">
+<img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/cmpt.gif?raw=true" style="height: 100px; width: 100px;">
+<img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/fire.gif?raw=true" style="height: 100px; width: 100px;">
 
 
 

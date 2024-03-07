@@ -2,7 +2,7 @@
 - 📚 Student at Taşköprü Myo
 - 👀 I’m interested in A.i.
 - 🌱 I’m currently learning Python
-- 📫 How to reach me 56768mert@gmail.com
+- 📫 How to reach me: Discord 'luvica0'
 
 
 <img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/brain.gif?raw=true" style="height: 100px; width: 150px;"><img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/cmpt.gif?raw=true" style="height: 100px; width: 115px;"><img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/fire.gif?raw=true" style="height: 100px; width: 150px;">

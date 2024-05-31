@@ -7,6 +7,7 @@
    - Email: 56768mert@gmail.com
    - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mert-cakir0/)
 
+<img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/Luvica.gif" style="height: 300px; width: 350px;">
 
 <img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/brain.gif?raw=true" style="height: 100px; width: 150px;"><img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/cmpt.gif?raw=true" style="height: 100px; width: 115px;"><img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/fire.gif?raw=true" style="height: 100px; width: 150px;">
 

@@ -5,7 +5,6 @@
 - 📫 How to reach me:
    - Discord: luvica0
    - Email: mertcakir.dev@gmail.com
-   - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mert-cakir0/)
 
 <img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/Luvica.gif" style="height: 300px; width: 350px;">
 

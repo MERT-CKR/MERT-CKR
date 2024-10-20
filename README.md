@@ -2,9 +2,7 @@
 - 🎓 I graduated from Kastamonu University
 - 👀 I’m interested in A.I.
 - 🌱 I’m currently improving my skills in advanced Python topics.
-- 📫 How to reach me:
-   - Discord: luvica0
-   - Email: mertcakir.dev@gmail.com
+- 📫 How to reach me: mertcakir.dev@gmail.com
 
 <img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/Luvica.gif" style="height: 300px; width: 350px;">
 

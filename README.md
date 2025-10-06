@@ -2,11 +2,12 @@
 - 🎓 I graduated from Kastamonu University
 - 👀 I’m interested in A.I.
 - 🌱 I’m currently improving my skills in ML.
-- 📫 How to reach me: mertcakir.dev@gmail.com
+- 📫 How to reach me:
+    - Gmail: mertcakir.dev@gmail.com
+    - Discord: luvica0
 
 
-
-<img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/brain.gif?raw=true" style="height: 100px; width: 150px;"><img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/fire.gif?raw=true" style="margin-left: 3px; height: 100px; width: 150px;">
+<img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/fire.gif?raw=true" style="margin-left: 3px; height: 100px; width: 150px;">
 
 
 

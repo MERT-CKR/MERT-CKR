@@ -1,13 +1,10 @@
-- 👋 Hi, I’m Mert Çakır<img src="https://media.tenor.com/kRszz0WuOXYAAAAi/bongo-fox.gif" width="50"></h2> <img src="https://media.tenor.com/TuDbQ79kuPQAAAAi/fox-sunday.gif" width="50">
+- 👋 Hi, I’m Mert Çakır
 - 🎓 I graduated from Kastamonu University
 - 👀 I’m interested in A.I.
 - 🌱 I’m currently improving my skills in DL - Tensorflow.
 - 📫 How to reach me:
     - Gmail: mertcakir.dev@gmail.com
     - Discord: luvica0
-
-
-<img src="https://github.com/MERT-CKR/MERT-CKR/blob/main/fire.gif?raw=true" style="margin-left: 3px; height: 100px; width: 150px;">
 
 
 
